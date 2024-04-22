@@ -1,0 +1,1 @@
+Reset - comecei usando um reset em css de dominio público desenvolvido por Eric Meyer.
